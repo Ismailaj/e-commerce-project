@@ -108,7 +108,7 @@ pajamas.addEventListener('click', (e) => {
 // Function to attach event listeners to "Add to Cart" buttons
 function setupAddToCartButtons(data) {
     const addToCartButtons = document.querySelectorAll(".card-btn");
-    addToCartButtons.forEach(button, index) => {
+    addToCartButtons.forEach((button, index)) => {
         button.addEventListener("click", () => {
             addItem(data[index]);// Pass the corresponding item data to addItem
         });
