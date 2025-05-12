@@ -116,7 +116,7 @@ function setupAddToCartButtons(data) {
 }
 
 function addItem(item) {
-    const cartList = document.querySelector("cart-list");
+    const cartList = document.querySelector(".cart-list");
     const cartItem = document.createElement("li");
     cartItem.classList.add("list-group-item", "d-flex", "justify-content-center", "align-items-center");
     cartItem.innerHTML = `
