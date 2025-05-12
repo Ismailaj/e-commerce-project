@@ -1,0 +1,14 @@
+[
+    {
+        "price" : "$2",
+        "image" : "../boys/1.jpeg"
+    },
+    {
+        "price" : "$3",
+        "image" : "../boys/2.jpeg"
+    },
+    {
+        "price" : "$4",
+        "image" : "../boys/3.jpeg"
+    }
+]

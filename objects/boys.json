@@ -1,0 +1,46 @@
+[
+    {
+        "image" : "../boys/1.jpeg",
+        "price" : "$2"
+    },
+    {
+        "image" : "../boys/2.jpeg",
+        "price" : "$4"
+    },
+    {
+        "image" : "../boys/3.jpeg",
+        "price" : "$0.9"
+    },
+    {
+        "image" : "../boys/4.jpeg",
+        "price" : "$0.12"
+    },
+    {
+        "image" : "../boys/5.jpeg",
+        "price" : "$1"
+    },    
+    {
+        "image" : "../boys/7.jpeg",
+        "price" : "$3"
+    },
+    {
+        "image" : "../boys/8.jpeg",
+        "price" : "$5"
+    },   
+    {
+        "image" : "../boys/9.jpeg",
+        "price" : "$27"
+    },    
+    {
+        "image" : "../boys/10.jpeg",
+        "price" : "$10"
+    },
+    {
+        "image" : "../boys/11.jpeg",
+        "price" : "$0.5"
+    },
+    {
+        "image" : "../boys/12.jpeg",
+        "price" : "$0.5"
+    }
+]

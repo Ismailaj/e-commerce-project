@@ -1,0 +1,42 @@
+[
+    {
+        "image" : "../pajamas/1.jpeg",
+        "price" : "$2"
+    },
+    {
+        "image" : "../pajamas/2.jpeg",
+        "price" : "$4"
+    },
+    {
+        "image" : "../pajamas/3.jpeg",
+        "price" : "$0.9"
+    },
+    {
+        "image" : "../pajamas/5.jpeg",
+        "price" : "$1"
+    },    
+    {
+        "image" : "../pajamas/6.jpeg",
+        "price" : "$3"
+    },
+    {
+        "image" : "../pajamas/7.jpeg",
+        "price" : "$5"
+    },   
+    {
+        "image" : "../pajamas/8.jpeg",
+        "price" : "$27"
+    },    
+    {
+        "image" : "../pajamas/9.jpeg",
+        "price" : "$10"
+    },
+    {
+        "image" : "../pajamas/10.jpeg",
+        "price" : "$0.5"
+    },
+    {
+        "image" : "../pajamas/4.jpeg",
+        "price" : "$0.5"
+    }
+]
